@@ -1,0 +1,10 @@
+name: Adventure
+version: 1.0.0
+environment:
+  sdk: '^3.2.0'
+dependencies:
+  audioplayers: ^5.2.1
+  http: ^1.1.2
+flutter:
+  assets: 
+  - C:\DEV\Home\Adventure\Music\Testaudio.mp4.mp3
